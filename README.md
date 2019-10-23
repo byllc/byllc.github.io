@@ -2,6 +2,10 @@
 ## Social Media
 [Bill on LinkedIn](https://www.linkedin.com/in/byllc/detail/recent-activity/posts/)
 
+## Blogging an Publishing
+[LinkedIn Articles](https://www.linkedin.com/in/byllc/detail/recent-activity/posts/)<br/>
+[Technical and Leadership Topics @ Stark & Wayne](https://starkandwayne.com/blog/author/bill-chapman/)<br/>
+
 ## Public Speaking
 [Keynote @ CF Summit North America 2019](https://www.youtube.com/watch?v=rrlKcTZtL3c)<br/>
 [Servant Leadership @ CF Summit EU 2019](https://www.youtube.com/watch?v=pA_-x4bJviI&t=4s)<br/>
