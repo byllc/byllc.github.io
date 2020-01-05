@@ -1,4 +1,4 @@
-![Bill's Headshot]assets/images/billheadshotkeynote.png)
+![Bill's Headshot](assets/images/billheadshotkeynote.png)
 
 ## Social Media
 [Bill on LinkedIn](https://www.linkedin.com/in/byllc/detail/recent-activity/posts/)
