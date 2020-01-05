@@ -1,3 +1,4 @@
+![Bill's Headshot](https://byllc.github.com/assets/billheadshotkeynote.png)
 
 ## Social Media
 [Bill on LinkedIn](https://www.linkedin.com/in/byllc/detail/recent-activity/posts/)
