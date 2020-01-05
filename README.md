@@ -1,4 +1,4 @@
-![Bill's Headshot](assets/images/billheadshotkeynote.png | width=150)
+<img src="/assets/images/billheadshotkeynote.png" width="200">
 
 ## Social Media
 [Bill on LinkedIn](https://www.linkedin.com/in/byllc/detail/recent-activity/posts/)
